@@ -66,7 +66,7 @@ Contributions to this Boilerplate are welcome! To contribute, follow these steps
 1. Fork the repository.
 2. Create a new branch: `git checkout -b feature/your-feature-name`
 3. Make your changes and commit them using conventional commits: **type(optional scope): description** <br>
-E.g. git commit -m 'docs: correct spelling of Contributing section'.
+E.g. `git commit -m 'docs: correct spelling of Contributing section'`
 4. Push to the branch: git push origin feature/your-feature-name.
 5. Open a pull request. <br>
 *Please ensure that your code adheres to the project's coding standards.*
