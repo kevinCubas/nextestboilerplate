@@ -23,11 +23,11 @@ To install and set up the Next Testing Boilerplate, follow these steps:
 
 *This is the http version - click on the "Code" green button to clone using other methods.*
 ```console
-git clone https://github.com/kevinCubas/nextest.git
+git clone https://github.com/kevinCubas/nextestboilerplate.git
 ```
 2. Change into the project directory:
 ```console
-cd nexttestingboilerplate
+cd nextestboilerplate
 ```
 3. Install the dependencies:
 ```console
@@ -67,7 +67,7 @@ Contributions to this Boilerplate are welcome! To contribute, follow these steps
 2. Create a new branch: `git checkout -b feature/your-feature-name`
 3. Make your changes and commit them using conventional commits: **type(optional scope): description** <br>
 E.g. `git commit -m 'docs: correct spelling of Contributing section'`
-4. Push to the branch: git push origin feature/your-feature-name.
+4. Push to the branch: `git push origin feature/your-feature-name`
 5. Open a pull request. <br>
 *Please ensure that your code adheres to the project's coding standards.*
 
