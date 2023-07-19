@@ -16,12 +16,16 @@ This Boilerplate project utilizes the following technologies:
 - [eslint](https://eslint.org/)
 - [eslint-config-next](https://www.npmjs.com/package/eslint-config-next)
 
-## Installation
+## Usage
+Click on the "Use this template" button, and create a new repository. <br>
+Then follow the steps bellow to clone the project you just created into your local machine. **Just change the project url**
+
+### Manual installation
 To install and set up the Next Testing Boilerplate, follow these steps:
 
 1. Clone the repository:
 
-*This is the http version - click on the "Code" green button to clone using other methods.*
+*This is the http url version - click on the "Code" green button to clone using other methods.*
 ```console
 git clone https://github.com/kevinCubas/nextestboilerplate.git
 ```
